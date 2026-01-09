@@ -1,0 +1,4 @@
+streamlit>=1.30
+sentence-transformers>=2.2
+numpy>=1.23
+torch>=1.13
